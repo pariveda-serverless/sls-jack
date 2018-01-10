@@ -1,0 +1,20 @@
+{
+  "name": "frigg-pipeline-standard-v1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "dependencies": {
+    "serverless": "^1.14.0"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pariveda-serverless/sls-jack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pariveda-serverless/sls-jack/issues"
+  },
+  "homepage": "https://github.com/pariveda-serverless/sls-jack#readme"
+}
